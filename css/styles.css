@@ -143,3 +143,90 @@ a:hover {
   background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
   text-decoration: none;
 }
+
+
+
+.linkedin {
+  background: #1454a8;
+  background-image: -webkit-linear-gradient(top, #1454a8, #2b9eb8);
+  background-image: -moz-linear-gradient(top, #1454a8, #2b9eb8);
+  background-image: -ms-linear-gradient(top, #1454a8, #2b9eb8);
+  background-image: -o-linear-gradient(top, #1454a8, #2b9eb8);
+  background-image: linear-gradient(to bottom, #1454a8, #2b9eb8);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.linkedin:hover {
+  background: #3cfc8f;
+  background-image: -webkit-linear-gradient(top, #3cfc8f, #3498db);
+  background-image: -moz-linear-gradient(top, #3cfc8f, #3498db);
+  background-image: -ms-linear-gradient(top, #3cfc8f, #3498db);
+  background-image: -o-linear-gradient(top, #3cfc8f, #3498db);
+  background-image: linear-gradient(to bottom, #3cfc8f, #3498db);
+  text-decoration: none;
+}
+
+
+.Whatsapp {
+  background: #31a614;
+  background-image: -webkit-linear-gradient(top, #31a614, #00ff44);
+  background-image: -moz-linear-gradient(top, #31a614, #00ff44);
+  background-image: -ms-linear-gradient(top, #31a614, #00ff44);
+  background-image: -o-linear-gradient(top, #31a614, #00ff44);
+  background-image: linear-gradient(to bottom, #31a614, #00ff44);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.Whatsapp:hover {
+  background: #60786a;
+  background-image: -webkit-linear-gradient(top, #60786a, #3498db);
+  background-image: -moz-linear-gradient(top, #60786a, #3498db);
+  background-image: -ms-linear-gradient(top, #60786a, #3498db);
+  background-image: -o-linear-gradient(top, #60786a, #3498db);
+  background-image: linear-gradient(to bottom, #60786a, #3498db);
+  text-decoration: none;
+}
+
+
+
+
+.Github {
+  background: #000000;
+  background-image: -webkit-linear-gradient(top, #000000, #000000);
+  background-image: -moz-linear-gradient(top, #000000, #000000);
+  background-image: -ms-linear-gradient(top, #000000, #000000);
+  background-image: -o-linear-gradient(top, #000000, #000000);
+  background-image: linear-gradient(to bottom, #000000, #000000);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.Github:hover {
+  background: #ffffff;
+  background-image: -webkit-linear-gradient(top, #ffffff, #9ea695);
+  background-image: -moz-linear-gradient(top, #ffffff, #9ea695);
+  background-image: -ms-linear-gradient(top, #ffffff, #9ea695);
+  background-image: -o-linear-gradient(top, #ffffff, #9ea695);
+  background-image: linear-gradient(to bottom, #ffffff, #9ea695);
+  text-decoration: none;
+}
