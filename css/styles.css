@@ -230,3 +230,46 @@ a:hover {
   background-image: linear-gradient(to bottom, #ffffff, #9ea695);
   text-decoration: none;
 }
+
+
+.projects-container {
+  width: 100%;
+  overflow: hidden;
+}
+
+.project-row {
+  display: flex;
+  justify-content: center;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+}
+
+.project-card {
+  flex: 0 0 auto;
+  width: 30%;
+  margin: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  border-radius: 5px; /* Optional */
+}
+
+.project-card img {
+  width: 100%;
+  border-radius: 5px 5px 0 0; /* Optional */
+}
+
+.project-card h3, .project-card p {
+  margin: 15px;
+}
+
+.carousel-controls {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.carousel-button {
+  cursor: pointer;
+  padding: 10px;
+  border: none;
+  font-size: 18px;
+}
